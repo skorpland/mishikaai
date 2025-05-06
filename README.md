@@ -14,7 +14,7 @@ npm install mishikallm
 
 ```ts
 import { completion } from 'mishikallm';
-process.env['MISHIKAAI_API_KEY'] = 'your-openai-key';
+process.env['MISHIKAAI_API_KEY'] = 'your-mishikai-key';
 
 const response = await completion({
   model: 'gpt-3.5-turbo',
