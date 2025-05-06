@@ -34,7 +34,7 @@ for await (const part of stream) {
 ```
 
 # Features
-We aim to support all features that [MishikaLLM python package](https://github.com/BerriAI/mishikallm) supports.
+We are working to support more and more AI models.
 
 * Standardised completions
 * Standardised embeddings
