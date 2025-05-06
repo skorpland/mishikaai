@@ -45,27 +45,27 @@ We aim to support all features that [MishikaLLM python package](https://github.c
 ## Supported Providers
 | Provider | Completion | Streaming | Embedding
 | ------------- | ------------- | ------------- | ------------- |
-| [openai](https://docs.mishikallm.ai/docs/providers/openai)  | ✅ | ✅  | ✅ |
-| [cohere](https://docs.mishikallm.ai/docs/providers/cohere)  | ✅  | ✅  | ❌ |
-| [anthropic](https://docs.mishikallm.ai/docs/providers/anthropic)  | ✅ | ✅ | ❌ |
-| [ollama](https://docs.mishikallm.ai/docs/providers/ollama)  | ✅ | ✅ | ✅ |
-| [ai21](https://docs.mishikallm.ai/docs/providers/ai21)  | ✅ | ✅ | ❌ |
-| [replicate](https://docs.mishikallm.ai/docs/providers/replicate)  | ✅ | ✅ | ❌ |
-| [deepinfra](https://docs.mishikallm.ai/docs/providers/deepinfra)  | ✅ | ✅ | ❌ |
-| [mistral](https://docs.mishikallm.ai/docs/providers/mistral)  | ✅ | ✅ | ✅ |
-| [huggingface](https://docs.mishikallm.ai/docs/providers/huggingface)  | ❌ | ❌ | ❌ |
-| [together_ai](https://docs.mishikallm.ai/docs/providers/togetherai)  | ❌ | ❌ | ❌ |
-| [openrouter](https://docs.mishikallm.ai/docs/providers/openrouter)  | ❌ | ❌ | ❌ |
-| [vertex_ai](https://docs.mishikallm.ai/docs/providers/vertex)  | ❌ | ❌ | ❌ |
-| [palm](https://docs.mishikallm.ai/docs/providers/palm)  | ❌ | ❌ | ❌ |
-| [baseten](https://docs.mishikallm.ai/docs/providers/baseten)  | ❌ | ❌ | ❌ |
-| [azure](https://docs.mishikallm.ai/docs/providers/azure)  | ❌ | ❌ | ❌ |
-| [sagemaker](https://docs.mishikallm.ai/docs/providers/aws_sagemaker)  | ❌ | ❌ | ❌ |
-| [bedrock](https://docs.mishikallm.ai/docs/providers/bedrock)  | ❌ | ❌ | ❌ |
-| [vllm](https://docs.mishikallm.ai/docs/providers/vllm)  | ❌ | ❌ | ❌ |
-| [nlp_cloud](https://docs.mishikallm.ai/docs/providers/nlp_cloud)  | ❌ | ❌ | ❌ |
-| [aleph alpha](https://docs.mishikallm.ai/docs/providers/aleph_alpha)  | ❌ | ❌ | ❌ |
-| [petals](https://docs.mishikallm.ai/docs/providers/petals)  | ❌ | ❌ | ❌ |
+| [openai](https://docs.21t.cc/docs/providers/openai)  | ✅ | ✅  | ✅ |
+| [cohere](https://docs.21t.cc/docs/providers/cohere)  | ✅  | ✅  | ❌ |
+| [anthropic](https://docs.21t.cc/docs/providers/anthropic)  | ✅ | ✅ | ❌ |
+| [ollama](https://docs.21t.cc/docs/providers/ollama)  | ✅ | ✅ | ✅ |
+| [ai21](https://docs.21t.cc/docs/providers/ai21)  | ✅ | ✅ | ❌ |
+| [replicate](https://docs.21t.cc/docs/providers/replicate)  | ✅ | ✅ | ❌ |
+| [deepinfra](https://docs.21t.cc/docs/providers/deepinfra)  | ✅ | ✅ | ❌ |
+| [mistral](https://docs.21t.cc/docs/providers/mistral)  | ✅ | ✅ | ✅ |
+| [huggingface](https://docs.21t.cc/docs/providers/huggingface)  | ❌ | ❌ | ❌ |
+| [together_ai](https://docs.21t.cc/docs/providers/togetherai)  | ❌ | ❌ | ❌ |
+| [openrouter](https://docs.21t.cc/docs/providers/openrouter)  | ❌ | ❌ | ❌ |
+| [vertex_ai](https://docs.21t.cc/docs/providers/vertex)  | ❌ | ❌ | ❌ |
+| [palm](https://docs.21t.cc/docs/providers/palm)  | ❌ | ❌ | ❌ |
+| [baseten](https://docs.21t.cc/docs/providers/baseten)  | ❌ | ❌ | ❌ |
+| [azure](https://docs.21t.cc/docs/providers/azure)  | ❌ | ❌ | ❌ |
+| [sagemaker](https://docs.21t.cc/docs/providers/aws_sagemaker)  | ❌ | ❌ | ❌ |
+| [bedrock](https://docs.21t.cc/docs/providers/bedrock)  | ❌ | ❌ | ❌ |
+| [vllm](https://docs.21t.cc/docs/providers/vllm)  | ❌ | ❌ | ❌ |
+| [nlp_cloud](https://docs.21t.cc/docs/providers/nlp_cloud)  | ❌ | ❌ | ❌ |
+| [aleph alpha](https://docs.21t.cc/docs/providers/aleph_alpha)  | ❌ | ❌ | ❌ |
+| [petals](https://docs.21t.cc/docs/providers/petals)  | ❌ | ❌ | ❌ |
 
 # Development
 
