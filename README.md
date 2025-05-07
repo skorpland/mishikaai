@@ -94,7 +94,7 @@ cp .example.env .env
 Then fill the variables with your API keys to be able to run the E2E tests.
 
 ```
-MISHIKAAI_API_KEY=<Your OpenAI API key>
+MISHIKAAI_API_KEY=<Your Mishika AI Api key>
 ....
 ```
 
