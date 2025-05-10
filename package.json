@@ -1,5 +1,5 @@
 {
-  "name": "@skorpland/mishikallm",
+  "name": "@skorpland/mishikaai",
   "version": "0.12.0",
   "description": "JS Implementation of MishikaLLM",
   "main": "dist/src/index.js",
